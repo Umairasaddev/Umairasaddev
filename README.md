@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umair Asad</h1>
 <h3 align="center">A passionate Mobile Application Developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevpost.com%2Fsoftware%2Fvirtual-assistant-gqny96&psig=AOvVaw20P3MSUTzr6oy3aiqOMlm1&ust=1673270721247000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDViaqJuPwCFQAAAAAdAAAAABAF"
-                                                 
-                                                 
+                                               
                                                  
                                                  
 
@@ -10,7 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umairasaddev" alt="umairasaddev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/umairasad01" target="blank"><img src="https://img.shields.io/twitter/follow/umairasad01?logo=twitter&style=for-the-badge" alt="umairasad01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/umairasad01" target="blank"><img src="https://img.shields.io/twitter/follow/umairasad01?logo=twitter&style=for-the-badge" alt="umairasad01" /></a> </p> 
+<img align="right" alt="Coding" width="400" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/001/579/039/datas/medium.gif"
+  
 
 - 🔭 I’m currently working on **Android Development**
 
