@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umairasaddev" alt="umairasaddev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/umairasad001" target="blank"><img src="https://img.shields.io/twitter/follow/umairasad001?logo=twitter&style=for-the-badge" alt="umairasad001" /></a> </p>
+<p align="left"> <a href="https://twitter.com/umairasad01" target="blank"><img src="https://img.shields.io/twitter/follow/umairasad01?logo=twitter&style=for-the-badge" alt="umairasad01" /></a> </p>
 
 - 🔭 I’m currently working on **Android Development**
 
