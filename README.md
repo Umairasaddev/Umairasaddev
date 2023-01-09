@@ -31,7 +31,7 @@
 - 📫 How to reach me **UmairAsadKhan@proton.me**
 - ⚡ Fun fact **I think I am funny :D**
 
-### Blogs posts
+<!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
