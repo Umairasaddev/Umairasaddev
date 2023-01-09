@@ -1,8 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Umair Asad</h1>
-<h3 align="center">A passionate Mobile Application Developer from Pakistan</h3>
+<h3 align="center"> Mobile Application Developer @Softech Systems</h3>
                                                
-                                                 
+
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/umair-asad-khan/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCMSQ7WdlWoCMJXGNnwdfsOg">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/umairasad01">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+
+</div>
                                                  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairasaddev&label=Profile%20views&color=0e75b6&style=flat" alt="umairasaddev" /> </p>
