@@ -1,5 +1,9 @@
+<!-- <p><img align="right" alt="gif" src="https://codinhood.com/images/articles/octocat-sprite/octocat-short.gif"</p>
+ -->
+
 
 <h1 align="center">Hi 👋, I'm Umair Asad</h1>
+
 <h3 align="center"> Mobile Application Developer @Softech Systems</h3>
                                                
 
@@ -21,7 +25,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairasaddev&label=Profile%20views&color=0e75b6&style=flat" alt="umairasaddev" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umairasaddev" alt="umairasaddev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/umairasad01" target="blank"><img src="https://img.shields.io/twitter/follow/umairasad01?logo=twitter&style=for-the-badge" alt="umairasad01" /></a> </p> 
+<div id="chal" >
+<p align="left"> <a href="https://twitter.com/umairasad01" target="blank"><img src="https://img.shields.io/twitter/follow/umairasad01?logo=twitter&style=for-the-badge" alt="umairasad01" /></a> 
+ <img align="right" alt="image" src="https://cdn.dribbble.com/users/4852/screenshots/15280702/media/7e740eeb9abe29823a2952e83bde71b9.jpg?compress=1&resize=280x180"
+  width="320" height="200"</p>
+   </div>
 
 
 - 🔭 I’m currently working on **Android Development**
