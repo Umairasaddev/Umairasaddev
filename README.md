@@ -4,7 +4,7 @@
                                                
 
 
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/umair-asad-khan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -15,11 +15,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 
-</div>
+</div> -->
                                                  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairasaddev&label=Profile%20views&color=0e75b6&style=flat" alt="umairasaddev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umairasaddev" alt="umairasaddev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/umairasad01" target="blank"><img src="https://img.shields.io/twitter/follow/umairasad01?logo=twitter&style=for-the-badge" alt="umairasad01" /></a> </p> 
@@ -57,10 +56,21 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/umairasad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/umairasad" /></a>
+  <br><br>
+  
+  ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umairasaddev&show_icons=true&locale=en&layout=compact" alt="umairasaddev" /></p>
+### :fire: My Stats :
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=umairasaddev&show_icons=true&locale=en" alt="umairasaddev" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=umairasaddev&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umairasaddev&" alt="umairasaddev" /></p>
+ ![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=umairasaddev&show_icons=true&theme=algolia&locale=en)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=umairasaddev&show_icons=true&locale=en" alt="umairasaddev" /></p>
+ -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umairasaddev&" alt="umairasaddev" /></p> -->
+
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umairasaddev&show_icons=true&locale=en&layout=compact" alt="umairasaddev" /></p> -->
