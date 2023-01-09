@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Umair Asad</h1>
 <h3 align="center">A passionate Mobile Application Developer from Pakistan</h3>
@@ -11,8 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umairasaddev" alt="umairasaddev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/umairasad01" target="blank"><img src="https://img.shields.io/twitter/follow/umairasad01?logo=twitter&style=for-the-badge" alt="umairasad01" /></a> </p> 
-<img align="right" alt="Coding" width="400" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/001/579/039/datas/medium.gif"
-  
+
 
 - 🔭 I’m currently working on **Android Development**
 - 🌱 I’m currently learning **Python, Machine Learning, DevOps**
