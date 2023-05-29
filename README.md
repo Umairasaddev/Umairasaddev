@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Umair Asad
 
-I'm a Software Engineer Intrested in Building Software Applications on Several Platforms
+I'm a Software Engineer intrested in Building Software Applications on Several Platforms
 
 Always trying to Learn New Technologies and Programming Languages, Frameworks
 
@@ -14,6 +14,7 @@ Always trying to Learn New Technologies and Programming Languages, Frameworks
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c%20sharp&logoColor=white)
+![XML](https://img.shields.io/badge/-XML-black?style=flat-square&logo=xml&logoColor=white)
 
 
 
