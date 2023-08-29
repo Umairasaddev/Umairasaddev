@@ -90,10 +90,12 @@ Always trying to Learn New Technologies and Programming Languages, Frameworks
 1. Building Advanced Web Applications
 2. Build Native Apps with Kotlin
 3. DevOps
-
+z
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help with **Android Development**
+- 
+- 🤝 I’m looking working on  **Power Buisness Inetlligence (Power BI)**
 
 - 💬 Ask me about **Android Development**
 
