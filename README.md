@@ -94,7 +94,7 @@ z
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help with **Android Development**
-- 
+  
 - 🤝 I’m looking working on  **Power Buisness Inetlligence (Power BI)**
 
 - 💬 Ask me about **Android Development**
