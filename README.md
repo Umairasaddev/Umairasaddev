@@ -87,10 +87,10 @@ Always trying to Learn New Technologies and Programming Languages, Frameworks
 ## Profile Information
 
 - 🌱 I’m currently learning 
-1. Building Advanced Web Applications
-2. Build Native Apps with Kotlin
-3. DevOps
-z
+1. Building Advanced Android Applications
+2. Build Native Apps with Kotlin & Java
+3. Jetpack
+
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help with **Android Development**
